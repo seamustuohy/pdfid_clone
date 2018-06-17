@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from .pdfid import PDFiD
+from .pdfid import PDFiD, cPDFiD
